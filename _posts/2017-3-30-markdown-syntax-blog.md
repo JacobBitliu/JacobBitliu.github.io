@@ -30,7 +30,7 @@ U see ,this will be okey .
 
 * link and image
 
-[![] (https://jacobbitliu.github.io/assets/MarkDownP1.jpeg)](http://www.baidu.com)
+[![] (https://jacobbitliu.github.io/assets/MarkDownP1.jpg)](http://www.baidu.com)
 
 Hey bro , u see this , just like this you can import a image.
  Next , is how to add a link to a text.

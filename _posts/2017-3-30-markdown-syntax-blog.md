@@ -29,7 +29,7 @@ U see ,this will be okey .
 
 * link and image
 
-![] ({{ site.url }}/assets/MarkDownP1.jpeg)
+![] (https://jacobbitliu.github.io/assets/MarkDownP1.jpeg)
 
 Hey bro , u see this , just like this you can import a image.
  Next , is how to add a link to a text.

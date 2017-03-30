@@ -30,7 +30,6 @@ U see ,this will be okey .
 
 * link and image
 
-![](http://www.json.org/img/json160.gif)
 [![] (https://jacobbitliu.github.io/assets/MarkDownP1.jpg)](http://www.baidu.com)
 
 Hey bro , u see this , just like this you can import a image.

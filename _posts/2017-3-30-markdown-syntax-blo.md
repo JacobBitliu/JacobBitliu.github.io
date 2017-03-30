@@ -1,5 +1,5 @@
 ---
-layout:     default
+layout:     post
 title:      MarkDown Syntax
 category: blog
 description: 写给使用MarkDown写作的朋友的语法学习指南(Easy Course for MarkDown Syntax )

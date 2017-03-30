@@ -29,7 +29,7 @@ U see ,this will be okey .
 
 * link and image
 
-[![] (https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490869435103&di=0b04982d8a52a5dfae7ff5b55318289b&imgtype=0&src=http%3A%2F%2Fwww.th7.cn%2Fd%2Ffile%2Fp%2F2016%2F04%2F17%2Faf9f05c290c3ba56ea53ddc978c557ed.jpg)](http://www.baidu.com)
+![] ({{ site.url }}/assets/MarkDownP1.jpeg)
 
 Hey bro , u see this , just like this you can import a image.
  Next , is how to add a link to a text.

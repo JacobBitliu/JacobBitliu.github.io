@@ -19,6 +19,7 @@ MarkDown has six form of titles , you can use it where ever u need.
 - text 1
 - text 2
 - text 3
+
 If u want to numbered the text , you can just do next.
 
 1. text1
@@ -29,7 +30,7 @@ U see ,this will be okey .
 
 * link and image
 
-![] (https://jacobbitliu.github.io/assets/MarkDownP1.jpeg)
+[![] (https://jacobbitliu.github.io/assets/MarkDownP1.jpeg)](http://www.baidu.com)
 
 Hey bro , u see this , just like this you can import a image.
  Next , is how to add a link to a text.

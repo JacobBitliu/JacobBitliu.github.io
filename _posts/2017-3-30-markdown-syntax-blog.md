@@ -87,6 +87,8 @@ See man , this is the table . The positon of ":" can deside where is the text in
 
 * Now is the code . U ready know how to do that .
 
+{% highlight markdown %}
+
 ```
 ---
 layout:     post
@@ -177,6 +179,7 @@ See man , this is the table . The positon of ":" can deside where is the text in
 * Now is the code . U ready know how to do that .
 ```
 
+{% endhighlight %}
 The blog will never change , please visit [lweiheng.com.cn](lweiheng.com.cn) to see this , thanks a lot .
 
 

@@ -1,5 +1,5 @@
 ---
-layout:     default
+layout:     post
 title:      Build first javaweb project by Intellj idea
 category: blog
 description: Build first javaweb project by Intellj idea

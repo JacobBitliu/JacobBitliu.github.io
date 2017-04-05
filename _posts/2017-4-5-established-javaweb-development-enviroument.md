@@ -1,6 +1,6 @@
 ---
-layout:     default
-title:      MarkDown Syntax
+layout:     post
+title:      Mac 10.12 established javaweb development enviroument
 category: blog
 description: Mac 10.12 established javaweb development enviroument
 ---

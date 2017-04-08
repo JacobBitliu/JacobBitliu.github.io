@@ -1,5 +1,5 @@
-﻿---
-layout:     post
+---
+layout:     default
 title:      Use dom4j and Xpath to analyze xml file
 category: blog
 description: Use dom4j and Xpath to analyze xml file

@@ -1,5 +1,5 @@
 ---
-layout:     default
+layout:     post
 title:      An easy JDBC turtorial
 category: blog
 description: An easy JDBC turtorial
